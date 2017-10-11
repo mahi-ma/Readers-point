@@ -1,0 +1,24 @@
+.glyphicon glyphicon-book
+{
+    font-size: 52px;
+}
+
+.navbar-brand
+{
+    font-size: 30px;
+    
+}
+body
+{
+    background-image: url("pic.png");
+}
+
+.row
+{
+    margin-top: 200px;
+}
+
+.dropdown-toggle
+{
+     font-size: 25px;
+}

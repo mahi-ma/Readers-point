@@ -1,0 +1,40 @@
+body
+{
+//background-size: contain;
+}
+
+#b1
+{
+    margin-top: 20px;
+    border-radius: 50%;
+    font-size: 100px;
+    background-color: brown;
+    color: white;
+}
+
+#b1:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+
+#b1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#hh
+{
+    font-size: 30px;
+}
+@font-face
+{
+    font-family:myfont;
+    src:url(F:\bootstrap\login.ttf);
+}
+#oneliner
+{
+    font-family: myfont;
+    margin-top: 200px;
+    color: red;
+}
